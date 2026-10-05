@@ -2,4 +2,9 @@ streamlit
 langgraph
 langchain-groq
 langchain-core
+langchain-community
+langchain-text-splitters
 python-dotenv
+fastembed
+faiss-cpu
+pypdf
